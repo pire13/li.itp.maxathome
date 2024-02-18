@@ -1,0 +1,28 @@
+{
+  "id": "li.itp.maxathome",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "maxathome"
+  },
+  "description": {
+    "en": "Supports eQ-3 MAX! devices via the MAX! Cube LAN Gateway."
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Jakob Birnbaumer",
+    "email": "j+homey@itp.li"
+  }
+}
